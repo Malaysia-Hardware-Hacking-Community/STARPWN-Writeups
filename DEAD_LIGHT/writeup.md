@@ -2,8 +2,7 @@
 title: "DEAD_LIGHT"
 ctf: "STARPWN 2026 (DEF CON / Aerospace Village)"
 date: 2026-08-09
-category: misc
-difficulty: medium
+category: Misc
 points: 500
 flag_format: "STARPWN{...}"
 author: "gluppler"
