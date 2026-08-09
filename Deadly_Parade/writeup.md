@@ -177,11 +177,3 @@ FLAG: starpwn{Echo_Trail_Park}
 ```
 starpwn{Echo_Trail_Park}
 ```
-
-## Note on previous wrong solve
-
-The earlier recorded flag `starpwn{Switch_Las_Vegas_14}` came from misreading
-`msgid 134` (a GCS→drones grid sweep message, per-node `uint16` values) as an RF
-RSSI survey and fitting a log-distance path-loss model. That fit did not actually
-localize the jammers — the GPS-constellation-loss + circumcenter approach above
-is the correct one. See `wiki/forensics.md` for the corrected technique.
