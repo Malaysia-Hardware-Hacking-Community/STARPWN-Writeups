@@ -1,9 +1,11 @@
 ---
-challenge: Connect_The_Dots
+title: Connect_The_Dots
+ctf: "STARPWN 2026 (DEF CON / Aerospace Village)"
+date: 2026-08-09
 category: Space Communications & RF
 points: 500
-flag: starpwn{Beyond_Visual_Line_Of_Sight}
-status: solved
+flag_format: "starpwn\{[A-Za-z_]+\}"
+author: "gluppler"
 ---
 
 ## Connect_The_Dots
