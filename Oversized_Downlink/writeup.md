@@ -2,7 +2,7 @@
 title: "Oversized_Downlink"
 ctf: "STARPWN 2026 (DEF CON / Aerospace Village)"
 date: 2026-08-09
-category: "Forensics"
+category: "Misc"
 points: 500
 flag_format: "STARPWN{...}"
 author: "gluppler"
