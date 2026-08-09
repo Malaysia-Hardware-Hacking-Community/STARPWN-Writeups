@@ -1,0 +1,17 @@
+Spacecraft Packet Identifier (APID) Directory
+==============================================
+Source: archived ops handbook rev 3.1 (partial recovery).
+Sync marker (Attached Sync Marker, ASM): 0x1ACFFC1D
+All packets follow the CCSDS Space Packet Protocol (CCSDS 133.0-B-2):
+  - 4-byte ASM prefix
+  - 6-byte primary header (version/type/sec-hdr-flag/APID,
+    sequence flags + count, packet data length minus 1)
+  - variable-length packet data field (no secondary header in this mission)
+
+APID  Mnemonic         Description                       Payload
+----  ---------------  --------------------------------  ----------------------
+  50  SYSLOG           Free-form system log message      Variable-length ASCII
+ 100  HK_NOMINAL       Housekeeping telemetry            14-byte fixed (see dict)
+ 200  ADCS_STATUS      Attitude control snapshot         8-byte fixed (decode TBD)
+
+[remaining APID definitions corrupted -- file truncated at line 26]
