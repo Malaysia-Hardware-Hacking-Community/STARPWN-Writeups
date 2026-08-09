@@ -4,7 +4,7 @@ ctf: "STARPWN 2026 (DEF CON / Aerospace Village)"
 date: 2026-08-09
 category: Space Communications & RF
 points: 500
-flag_format: "starpwn\{[A-Za-z_]+\}"
+flag_format: "starpwn{[A-Za-z_]+}"
 author: "gluppler"
 ---
 
