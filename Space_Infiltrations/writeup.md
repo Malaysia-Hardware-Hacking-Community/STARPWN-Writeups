@@ -10,10 +10,6 @@ author: "gluppler"
 
 # STARPWN 2026 — Space_Infiltrations
 
-**Category:** Web / Satellite Command & Control
-**Flag:** `STARPWN{9de48ee5d75bd14b45e48948f5b74914}`
-**Status:** SOLVED
-
 ## Scenario
 
 Titan Corp tasks you to infiltrate YeetSat and recover `flag.txt` stored on
