@@ -10,10 +10,6 @@ author: "gluppler"
 
 # STARPWN 2026 — Starry_Hacks
 
-- **Category:** Space Communications & RF
-- **Flag:** `STARPWN{7h20u9h_v1c702y_my_ch41n5_423_820k3n}`
-- **Status:** SOLVED
-
 ## Scenario
 
 A Titan Corp orbital control stack was found talking to its satellite in
