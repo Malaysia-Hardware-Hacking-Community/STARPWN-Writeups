@@ -8,7 +8,7 @@ flag_format: "STARPWN{...}"
 author: "gluppler"
 ---
 
-# STARPWN 2026 — Silent_Beacon
+# Silent_Beacon
 
 ## Scenario
 
