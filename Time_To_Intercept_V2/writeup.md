@@ -11,7 +11,7 @@ author: "gluppler"
 # Time_To_Intercept_V2
 
 ## Summary
-A Hohmann-transfer intercept shell (sequel to Time_To_Intercept) at `0.cloud.chals.io:19717`. The math is identical to V1; any correct submission returns the flag `STARPWN{dont_print_th3_answer_}` verbatim — the "troll" flag **is** the flag. The only V2 twist is that ~15% of random scenarios require a wait time over the 24 h submission cap and are unsolvable, so the solver reconnects for a fresh scenario.
+A Hohmann-transfer intercept shell (sequel to Time_To_Intercept) at `0.cloud.chals.io:19717`. The math is identical to V1; any correct submission returns the flag `STARPWN{dont_print_th3_answer_}`. The only V2 twist is that ~15% of random scenarios require a wait time over the 24 h submission cap and are unsolvable, so the solver reconnects for a fresh scenario.
 
 ## Solution
 
