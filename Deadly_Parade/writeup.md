@@ -1,5 +1,5 @@
 ---
-title: "Deadly Parade"
+title: "Deadly_Parade"
 ctf: "STARPWN (DEF CON / Aerospace Village)"
 date: 2026-08-09
 category: "Communications & RF"
@@ -8,7 +8,7 @@ flag_format: "starpwn{[A-Za-z_]+}"
 author: "gluppler"
 ---
 
-# Deadly Parade
+# Deadly_Parade
 
 ## Summary
 
