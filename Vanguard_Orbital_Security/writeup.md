@@ -8,12 +8,7 @@ flag_format: "STARPWN{...}"
 author: "gluppler"
 ---
 
-# STARPWN - Vanguard Orbital Security Writeup
-
-## Challenge Overview
-- **Category**: Ground Operations
-- **Description**: Gitea instance with CI/CD runner signing binaries. Need to exfiltrate PROD_SIGNING_KEY.
-- **Access**: Terminal via websocket at `wss://starpwn-b8ce730e902e-bad-gitea-0-0.chals.io/shell/`
+# STARPWN - Vanguard Orbital Security
 
 ## Solution
 
