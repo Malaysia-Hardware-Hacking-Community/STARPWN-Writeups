@@ -8,7 +8,7 @@ flag_format: "STARPWN{...}"
 author: "gluppler"
 ---
 
-# Vanguard Orbital Security
+# Vanguard_Orbital_Security
 
 ## Solution
 
