@@ -10,10 +10,6 @@ author: "gluppler"
 
 # STARPWN 2026 — Silent_Beacon
 
-**Category:** Forensics / Protocol Decoding (CCSDS Telemetry)
-**Flag:** `STARPWN{h0us3k33p1ng_4n0m4ly}`
-**Status:** SOLVED
-
 ## Scenario
 
 A Titan Corp CubeSat went silent after a suspected cyber intrusion. The
