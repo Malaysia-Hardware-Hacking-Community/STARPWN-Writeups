@@ -8,7 +8,7 @@ flag_format: "STARPWN{...}"
 author: "gluppler"
 ---
 
-# STARPWN 2026 — Starry_Hacks
+# Starry_Hacks
 
 ## Scenario
 
